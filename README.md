@@ -11,15 +11,15 @@
 <details>
 <summary>Список основных элементов</summary>
 
--[Bootstrap](#Bootstrap)
--[Builder](#Builder)
--[Factory](#Factory)
--[Pool](#Pool)
--[StateMachine](#StateMachine)
--[GameProcessor](#GameProcessor)
--[Service](#Service)
--[Locator](#Locator)
--[MVC](#MVC)
+- [Bootstrap](#Bootstrap)
+- [Builder](#Builder)
+- [Factory](#Factory)
+- [Pool](#Pool)
+- [StateMachine](#StateMachine)
+- [GameProcessor](#GameProcessor)
+- [Service](#Service)
+- [Locator](#Locator)
+- [MVC](#MVC)
 
 </details>
 
