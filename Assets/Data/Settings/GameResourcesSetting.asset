@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29fec5fd81344cf44a476925f6c060b9, type: 3}
+  m_Name: GameResourcesSetting
+  m_EditorClassIdentifier: 
+  _playerPrefabs:
+  - rank: 1
+    prefab: {fileID: 5974954535024038981, guid: cbb6ef5903019804c927687eafa03f91, type: 3}
+  - rank: 2
+    prefab: {fileID: 5974954535024038981, guid: cbb6ef5903019804c927687eafa03f91, type: 3}
+  - rank: 3
+    prefab: {fileID: 5974954535024038981, guid: cbb6ef5903019804c927687eafa03f91, type: 3}
+  - rank: 4
+    prefab: {fileID: 5974954535024038981, guid: c7fb70b38b8db004b9b3bee9ab41881f, type: 3}
+  - rank: 5
+    prefab: {fileID: 5974954535024038981, guid: c7fb70b38b8db004b9b3bee9ab41881f, type: 3}
+  - rank: 6
+    prefab: {fileID: 5974954535024038981, guid: c7fb70b38b8db004b9b3bee9ab41881f, type: 3}
+  - rank: 7
+    prefab: {fileID: 5974954535024038981, guid: d09c4e1fc3de49a4bb32d0e9a8b52dae, type: 3}
+  - rank: 8
+    prefab: {fileID: 5974954535024038981, guid: d09c4e1fc3de49a4bb32d0e9a8b52dae, type: 3}
+  - rank: 9
+    prefab: {fileID: 5974954535024038981, guid: d09c4e1fc3de49a4bb32d0e9a8b52dae, type: 3}
+  - rank: 10
+    prefab: {fileID: 5974954535024038981, guid: bf16654b2cd5a6241b493520ea57259a, type: 3}
+  - rank: 11
+    prefab: {fileID: 5974954535024038981, guid: bf16654b2cd5a6241b493520ea57259a, type: 3}
+  - rank: 12
+    prefab: {fileID: 5974954535024038981, guid: bf16654b2cd5a6241b493520ea57259a, type: 3}
+  - rank: 13
+    prefab: {fileID: 5974954535024038981, guid: bf16654b2cd5a6241b493520ea57259a, type: 3}
+  - rank: 14
+    prefab: {fileID: 5974954535024038981, guid: bf16654b2cd5a6241b493520ea57259a, type: 3}
+  - rank: 15
+    prefab: {fileID: 5974954535024038981, guid: bf16654b2cd5a6241b493520ea57259a, type: 3}
+  _enemyChipPrefabs:
+  - type: 0
+    prefab: {fileID: 9040913463209249748, guid: ec77bf210358b214db69ead1a17436d7, type: 3}
+  - type: 1
+    prefab: {fileID: 1280913655763859640, guid: d7579d1734799b24ea1aaacd31bde5a4, type: 3}
+  - type: 2
+    prefab: {fileID: 6727802817905000271, guid: 2c088fcaba095d343b4a2dbb77850148, type: 3}
+  _playerTilePrefab: {fileID: 701100784421109582, guid: 1965c2a4e39c6b6489fb8e89af4b6d1d, type: 3}
+  _projectile: {fileID: 1977819837425665431, guid: bed93c1843a9dd7458d32733589d2614, type: 3}
+  _enemyChipDebugPrefab: {fileID: 1280913655763859640, guid: d7579d1734799b24ea1aaacd31bde5a4, type: 3}
+  _playerChipDebugPrefab: {fileID: 5974954535024038981, guid: cbb6ef5903019804c927687eafa03f91, type: 3}
